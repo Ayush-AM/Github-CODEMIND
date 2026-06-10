@@ -1,0 +1,1 @@
+"""CodeMind AI backend package."""

@@ -1,0 +1,8 @@
+repositories/*
+!repositories/.gitkeep
+indexes/*
+!indexes/.gitkeep
+data/*
+!data/.gitkeep
+__pycache__/
+*.pyc
