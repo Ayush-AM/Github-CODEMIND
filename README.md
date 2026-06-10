@@ -70,16 +70,24 @@ pytest backend/tests
 
 The MVP deliberately leaves hybrid search, reranking, dependency graphs, visualizations, private repositories, and multi-repository retrieval as extension points rather than partially implementing them.
 
-## Deploy Live on Render
+## Deploy Live on AWS (Elastic Beanstalk)
 
-The repository includes a root `Dockerfile` and `render.yaml` for a single-service deployment. FastAPI serves the built React app on the same domain, and a persistent disk stores cloned repositories, FAISS indexes, application state, and the embedding model.
+CodeMind AI is deployed live on AWS using **Elastic Beanstalk** (Single Container Docker platform).
 
-1. Push this `codemind-ai` folder to a GitHub repository. Never commit `.env`.
-2. In Render, choose **New > Blueprint** and connect that repository.
-3. Render reads `render.yaml`. Enter `GROQ_API_KEY` when prompted.
-4. Create the Blueprint and wait for the first deployment.
-5. Open the generated `onrender.com` URL.
+For a complete guide of the commands, optimizations, and troubleshooting steps applied during deployment, see [AWS_DEPLOYMENT.md](file:///C:/Ayush/Desktop/codex/codemind-ai/AWS_DEPLOYMENT.md).
 
-The first repository indexing request downloads the embedding model and can take several minutes. The Blueprint uses Render's Standard web service because its 2 GB RAM is a safer baseline for PyTorch and MiniLM indexing. It also attaches a 10 GB persistent disk. At Render's June 2026 pricing, expect approximately `$27.50/month` before bandwidth: `$25/month` compute plus `$2.50/month` disk.
-
-Before sharing the URL publicly, add authentication and rate limiting. The MVP accepts arbitrary public GitHub URLs, so an unrestricted public deployment can consume disk space and Groq usage.
+### Quick Deploy Command
+To deploy any local updates to your live Beanstalk environment:
+```bash
+git add .
+git commit -m "Describe updates"
+eb deploy
+```
+You can view logs using:
+```bash
+eb logs
+```
+And open your live app using:
+```bash
+eb open
+```

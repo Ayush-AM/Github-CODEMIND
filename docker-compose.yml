@@ -1,3 +1,6 @@
+# Docker Compose config is for LOCAL DEVELOPMENT ONLY.
+# For production (AWS Elastic Beanstalk), it runs as a single-container app (Dockerfile) to map port 80 properly.
+# docker-compose.yml is ignored on EB via git/robocopy.
 services:
   backend:
     build:

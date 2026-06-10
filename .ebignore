@@ -1,0 +1,35 @@
+# Python cache
+.venv/
+__pycache__/
+backend/__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+
+# Data directories (generated at runtime)
+backend/repositories/
+backend/indexes/
+backend/data/
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/.npm-cache/
+frontend/.corepack/
+frontend/dist/
+frontend/tsconfig.app.tsbuildinfo
+frontend/tsconfig.node.tsbuildinfo
+
+# Root level caches
+.corepack/
+node_modules/
+
+# Git
+.git/
+
+# Local env (never upload secrets)
+.env
+
+# Misc
+*.log
+.DS_Store

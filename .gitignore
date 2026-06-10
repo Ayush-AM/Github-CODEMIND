@@ -14,3 +14,8 @@ backend/indexes/*
 !backend/indexes/.gitkeep
 backend/data/*
 !backend/data/.gitkeep
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
