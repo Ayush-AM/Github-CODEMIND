@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: codemind-ai
+    runtime: docker
+    plan: standard
+    region: singapore
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /health
+    autoDeployTrigger: commit
+    envVars:
+      - key: LLM_PROVIDER
+        value: groq
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: llama-3.3-70b-versatile
+      - key: STORAGE_ROOT
+        value: /var/data
+      - key: FRONTEND_DIST_DIR
+        value: /app/frontend/dist
+    disk:
+      name: codemind-data
+      mountPath: /var/data
+      sizeGB: 10

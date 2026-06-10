@@ -1,0 +1,13 @@
+.env
+.git
+.venv
+.corepack
+.npm-cache
+.pytest_cache
+**/__pycache__
+**/*.pyc
+frontend/node_modules
+frontend/dist
+backend/repositories
+backend/indexes
+backend/data
