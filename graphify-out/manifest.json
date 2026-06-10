@@ -1,0 +1,1902 @@
+{
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\lastKnownGood.json": {
+    "mtime": 1781068080.9487896,
+    "ast_hash": "bbee8f0297a05f7bb836c6fe539f512c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\index.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "226475feb33f3f1d471790c785f232f9",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\package.json": {
+    "mtime": 499162500.0,
+    "ast_hash": "d1ce3951b81f16430ac35a64b8e4aa83",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\bin\\npm": {
+    "mtime": 499162500.0,
+    "ast_hash": "ae1c3065bf4b17a2f100d890275c6480",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\bin\\npm-cli.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "6712707b5ca6b06e766b914db806d520",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\bin\\npm-prefix.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4a50ffba3462953539e191524ed89755",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\bin\\npm.ps1": {
+    "mtime": 499162500.0,
+    "ast_hash": "6eae1c1d1df355c361dd717244c4249a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\bin\\npx": {
+    "mtime": 499162500.0,
+    "ast_hash": "352a17c7c68fb5e0ae18bb982450adfb",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\bin\\npx-cli.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "500fddb4c0454ea9dc22312e77577d74",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\bin\\npx.ps1": {
+    "mtime": 499162500.0,
+    "ast_hash": "80d6e33b6e92f3cf6bcb8051dfd09bb7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\bin\\node-gyp-bin\\node-gyp": {
+    "mtime": 499162500.0,
+    "ast_hash": "af8e604c4549a96776009aaa250493a7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\lib\\index.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "971cf01eedf38731a2facab2f69d5b7a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\arborist-cmd.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "0ca2c560d782d663647c9c5c48a562cb",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\base-cmd.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "36647ea3e944b5a8a3342e2eb00eebe0",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\cli.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "86b5a1899fb4af7b61d8b94400d8a260",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\lifecycle-cmd.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "468f443971c3194c070dc1de09ab1b70",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\npm.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "53ef3b383db190e6b1dc1e2ff604684d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\package-url-cmd.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4aeafcc409e43dbf3437ab8b80f42e6d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\trust-cmd.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "c0183986b732d0c505175490eb0f3a94",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\cli\\entry.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "c1509fb9921c7b4a0797d286ee9fc850",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\cli\\exit-handler.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "5a48529080df4189ea457a60e4ce4a6e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\cli\\update-notifier.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "361cf3b6018907ec2c71e59962560f1d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\cli\\validate-engines.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "fa04de8c99bc095ec8fd4b35d2abba66",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\access.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "634d20dc1d0cd6eb27a24e66bbbb3006",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\adduser.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4ab7cfad49387369c58219eb68be58d8",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\approve-scripts.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "40e27bea0fbfe33f88d647a4c9090717",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\audit.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "e9fb0def85c9f1507900e1ca092dde18",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\bugs.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4e5e8aaec0506a3f17e1298ebc552569",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\cache.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "d34e999f4a9f97ff944a0b01f3490753",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\ci.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "e714dd76bb191d581af973bd910b3d8b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\completion.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "cc6305f3706ab3e9ffff0965e0696a35",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\config.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "cf70d306ddba19b509c5e96a5d03ddd1",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\dedupe.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "71f8a97a635b90ad1f9ae524caab6b31",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\deny-scripts.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "f33f98b2ae5f8d8ebb5e3d5916cd3d7d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\deprecate.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "1e9ae6d411ee52a5b033c2d738744f3a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\diff.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "ec4c2afac3be7e8ce8db0093b39253da",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\dist-tag.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "85667eb2222b21b38b9714c28bd5105a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\docs.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "68bec997115ead2dc2ec1f06fd0f8eb5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\doctor.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "583aa8d0b7e03b84a9a318daa2f82735",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\edit.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "98a8625ef14edafeaea53d750833f61e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\exec.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "a390384d38a9fea2170f560ce689f479",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\explain.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "e901a4e00b8d55d088553a61d7b039c0",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\explore.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "97a056bba87258efeaadbf81286a6349",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\find-dupes.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "43d4c588b7e50cd0d2d2df6bd89f36c2",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\fund.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "84b0105d975a3c11ed38728f0a69622b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\get.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4f6d4927ea01bd6f06ce40437049b9c9",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\help-search.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "d027ba419bcc4a896f96eccc70ee3679",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\help.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "583775c5aa1018995dc473dea389cfa7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\init.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "f5d454a9d644c3fc99dde51681b99b71",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\install-ci-test.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4a8a35d5556fa2bfca100d275bbcd86e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\install-test.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "c59e96e78007255dfcc8b8048ab5121d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\install.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "b0d926fda7fb9c03068fe86a3490c670",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\link.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "288b04b2bdcb4f609f161968135acd26",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\ll.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "2439d3eb154aa6fa961b02e055c8a55d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\login.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4bdd643c792800ae1ab7244c0c50d224",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\logout.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "8e58f885bd7a792381b83579f2f51bc4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\ls.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "709e675a6db233e794baa52a240defb4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\org.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "dbe137107e06065805164c64acd471f5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\outdated.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "599a13137628b84d3da5c830dee28704",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\owner.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "f5e1534196eff282e8e9efa407df8459",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\pack.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "e6dc38c8cbd7bad1f10dad6075681cf4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\ping.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "a95f4deebaaf7aef9d2bb94835f2df60",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\pkg.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "3729712e0a08334c4abf71a0c98d908c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\prefix.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "ba1d1185274c33d3e60e6eb00dc9d38f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\profile.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "97e664c900a46b96812b9773fc2e30c4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\prune.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "a549241fe4b854920c45cec49d9a485f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\publish.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "08bfe8a457f16ff56484028065c23c44",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\query.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "28331894591589ce918ddc6a5399ffe8",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\rebuild.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "d793e446f753cc6fc6d20acf746dd31d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\repo.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "423b9d48db8b8a9516f224a8f5e7f000",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\restart.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "2368b358afdf4760aa3ebf416fc5b63d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\root.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "1a7ce611fa98048337af399b856093eb",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\run.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "a6e3f2ae0e3ef6fadfec4ee5b763e553",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\sbom.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "419b34e86ecacf25c0f1d3e7170b3000",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\search.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "0b19fc9f3e200ab191b239ecf308680f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\set.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "7da01321911a7be47c114d810965c13c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\shrinkwrap.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "3221c1c45b0945b6878b7e20e40a3d5c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\star.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4d7aacbd4ec58e74db9bf8d9040d78ee",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\stars.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "1c4431fd4bdc729f6137d91e4286d444",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\start.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "94565eca7169bd3acb7086285414766b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\stop.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "be46e0c352b6c686de76350166c3aed9",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\team.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "8e66608c1db9559d980eb2094b90d740",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\test.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "9abfa56f8b42637c7b9e3dca4beac3e2",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\undeprecate.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "d0db4c4a3c256ebe43e24bcb2f6ef0fd",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\uninstall.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "e5003aac47fe7bd01d6ce685f7a2e1b4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\unpublish.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "635def3f57fbf3074c837a4c975bdce4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\unstar.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "8bf79c6f7d1558fb22d4ea262aac3572",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\update.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "73458852af3e7105bd8a7201b3d8394c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\version.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4b36a9cc1af8de1543d77a91ca754946",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\view.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "bc0577be91a127e09a74d8404ebcbe79",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\whoami.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "3b2c1008d87afe53d8b02773a2bcad5c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\stage\\approve.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "01ba35feb0d9226536df1be32bff1754",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\stage\\download.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "d87de383e05f2cde58a50828637aba45",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\stage\\index.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "8e3a0c42a05a381b58f406790cdf67ad",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\stage\\list.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "35d1216cd2ad749f7b30021c14fbdda7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\stage\\publish.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "bd2ae8ea96777175b05b87ae5ff94e45",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\stage\\reject.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "5d9471de3e4cf1bba6f800d6767e5e5f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\stage\\view.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "f9f84884c48bb4e9d2de897c0139efa9",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\trust\\circleci.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "0ab530ac6d709fdf44ba0d28cfb434c7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\trust\\github.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "2e20219a0d5cc7479234e1b445c1f9c9",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\trust\\gitlab.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "2467148410f32a0b5f467f58ac005b0b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\trust\\index.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "8b0d7a6d8d7ba42f4e43332b33755027",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\trust\\list.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "2a3913f63af90201d703a47f1097405b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\commands\\trust\\revoke.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "289b050de681f9f545a5d382a75901c4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\allow-scripts-cmd.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "bdecc82bfd619dd8d4747d40b885ebde",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\allow-scripts-writer.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "26edf80d2f19a40aa182f3777b256d4c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\audit-error.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4bdc720c45cddf6d30ea5e2518b46f2e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\auth.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4c05d5fefef73df386d2c15fd918e391",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\check-allow-scripts.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "c1b8cb494eea5abad165a22f5f4941aa",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\cmd-list.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "32041795ed7fa6966ed0e4770cb738c5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\completion.sh": {
+    "mtime": 499162500.0,
+    "ast_hash": "b9a37f4cf5273df249918422e9cd81b4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\did-you-mean.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "e011f5f5c7cda9b339b08a289df02eb5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\display.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "462e4d177c34e9c7dc76d79e38ea9303",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\error-message.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "df43ae4dfa964e1eee1f416b251a0c04",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\explain-dep.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "92cf08cff4f9a244d12ced64f7c0af83",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\explain-eresolve.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "20d576fa9e0301a586c5925978a5fd75",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\format-bytes.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "5126fa64050ffb7b55fd9db7eb892b09",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\format-search-stream.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "cef351fc35cd3ede215aec8f4dfcb86b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\format.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "bc9eb96ee5507d1cab72eec68fc4b4f1",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\get-identity.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "1a78d56c9095d95e46f93498c70449ee",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\get-workspaces.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "5ec2cfab83b943a68c5b55b8d8966c47",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\installed-deep.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "61f1d35c875b6632bc5e9b398aff6427",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\installed-shallow.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4ca4830aeffd19191fafce5a656a59f1",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\is-windows.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "5a6be3eb441737001a36a9da0e5054e8",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\key-values.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "31f9c0e2d26fef3ebe51433a23378e49",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\log-file.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "b7a12a7ac1020d9baf45d50ae372ea6f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\npm-usage.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "c930245f54cb94037c651d7e53d09e42",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\oidc.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "710d488675b893630a3acafb5bb2ac95",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\open-url.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "70ec73c97833b45f30fa90c4cdccfb31",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\output-error.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "030ebaba4a182f0943ff58d66e9ee77a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\ping.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "4e8245890790c992e8bf4a307ef1492f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\queryable.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "1241b0ecb0c077a3c91c2f3ad846467d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\read-user-info.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "ba1decf55bfe24b11bdffe946966ad72",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\reify-finish.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "f3fb04c0810aa22b98b5246869cf5d7b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\reify-output.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "6d4d2ff7dd94ee11b5cd3a8b7b4fafe5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\resolve-allow-scripts.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "bcecaeed36a4a173d56ad9fca8bc1f98",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\sbom-cyclonedx.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "f4e1a3c0cd6917c64780833c7e3492ba",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\sbom-spdx.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "281fbcae3407ecbf5febf58ffb7a3d80",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\strict-allow-scripts-preflight.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "d9de3cff2d1729544ebce5667bca4121",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\tar.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "2d0927eee76879962babb8e3ad2851cd",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\timers.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "2f4c584067ffa91dea4ca9be901b6210",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\update-workspaces.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "362647a1c8db1b7ece39110841814150",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\validate-lockfile.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "5d4c29e220b68dbe2d8e4bd2758c680a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\validate-uuid.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "1876b0f1af416cea7179d64fa252c686",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\verify-signatures.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "1dd147714d1c8c9d76fa542dc5e3e499",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\lib\\utils\\warn-workspace-allow-scripts.js": {
+    "mtime": 499162500.0,
+    "ast_hash": "d1481c070ed441235442ab5280b3b162",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\app.py": {
+    "mtime": 1781069990.7460656,
+    "ast_hash": "f9e8d8233ab4375f43348c6539403fc2",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\chunker.py": {
+    "mtime": 1781066921.1753404,
+    "ast_hash": "5e07809f2837ee2a6fc076ce5f89255e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\config.py": {
+    "mtime": 1781070010.196826,
+    "ast_hash": "592739fe604c68b742c9196e4ab825fa",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\dependencies.py": {
+    "mtime": 1781068211.377125,
+    "ast_hash": "6c89bb2e4c1db06c5f571f72d2117105",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\embeddings.py": {
+    "mtime": 1781068211.1843364,
+    "ast_hash": "1cdf51d70ea8d767bd3e034a0a9a06b8",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\file_scanner.py": {
+    "mtime": 1781066920.7931187,
+    "ast_hash": "62e381a56bfbe81088afc871bd9ef58b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\github_loader.py": {
+    "mtime": 1781069655.2221708,
+    "ast_hash": "94825c8ac3247bfd63102d51830dd191",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\llm_provider.py": {
+    "mtime": 1781069443.5340617,
+    "ast_hash": "ab66115c9905c34b794ec17580ab9f15",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\models.py": {
+    "mtime": 1781067112.8194568,
+    "ast_hash": "8dfbeb5841d22267542c1a0ba50c6190",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\parser.py": {
+    "mtime": 1781066920.9795613,
+    "ast_hash": "fe986d96d983295cbc738e2820dc14ef",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\prompt_builder.py": {
+    "mtime": 1781066921.9431996,
+    "ast_hash": "559a6efa017849a52ff0cd5a467647b2",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\rag_engine.py": {
+    "mtime": 1781066922.489181,
+    "ast_hash": "1117c83e836c418bc7c317d40002f664",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\repository_state.py": {
+    "mtime": 1781066922.299503,
+    "ast_hash": "d4ccd812f782900d18c7e0069f47cdc5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\retriever.py": {
+    "mtime": 1781066921.762346,
+    "ast_hash": "87419c74751040746854f8793bea3bf3",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\vector_store.py": {
+    "mtime": 1781066921.5793965,
+    "ast_hash": "346903feb838bf085550a51aa94db446",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\__init__.py": {
+    "mtime": 1781066920.0408912,
+    "ast_hash": "9c1a8b9267ca159b1e6af4ba83c7785e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\data\\state.json": {
+    "mtime": 1781075631.0239077,
+    "ast_hash": "5d9a3bf52fd07f86e626aa048ceb1efa",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\data\\embedding-models\\models--sentence-transformers--all-MiniLM-L6-v2\\.no_exist\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\adapter_config.json": {
+    "mtime": 1781075627.485593,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\data\\embedding-models\\models--sentence-transformers--all-MiniLM-L6-v2\\.no_exist\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\added_tokens.json": {
+    "mtime": 1781068500.2417762,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\data\\huggingface\\hub\\models--sentence-transformers--all-MiniLM-L6-v2\\.no_exist\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\adapter_config.json": {
+    "mtime": 1781068164.999283,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\data\\huggingface\\hub\\models--sentence-transformers--all-MiniLM-L6-v2\\.no_exist\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\added_tokens.json": {
+    "mtime": 1781068186.4802678,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\indexes\\github-codemind-652990a1\\chunks.json": {
+    "mtime": 1781068189.0035367,
+    "ast_hash": "124d7f0ad31ffaa34b298e2c9f6fbc79",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\indexes\\github-codemind-c766d475\\chunks.json": {
+    "mtime": 1781069868.8027625,
+    "ast_hash": "124d7f0ad31ffaa34b298e2c9f6fbc79",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\indexes\\github-codemind-d405d57c\\chunks.json": {
+    "mtime": 1781075631.0174625,
+    "ast_hash": "124d7f0ad31ffaa34b298e2c9f6fbc79",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\tests\\test_chunker.py": {
+    "mtime": 1781067080.3875215,
+    "ast_hash": "49054903933daa3bf975798b6f30ce8f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\tests\\test_file_scanner.py": {
+    "mtime": 1781067080.5542603,
+    "ast_hash": "9e5acf128982669f4245f209a7443d01",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\tests\\test_llm_provider.py": {
+    "mtime": 1781069444.219495,
+    "ast_hash": "1c245a80ab9df6ba3043961fbe32f9ff",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\package.json": {
+    "mtime": 1781068139.5624285,
+    "ast_hash": "374048faaf78f4afad0b3d78fe17c29f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\postcss.config.js": {
+    "mtime": 1781067035.3450067,
+    "ast_hash": "c735540bb63936a123bc867d950c9f69",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\tailwind.config.js": {
+    "mtime": 1781067035.1622875,
+    "ast_hash": "ef73f2a840d5c4ff18a0ac9688d60791",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\tsconfig.app.json": {
+    "mtime": 1781067035.775053,
+    "ast_hash": "d01228955b739b81b36922024e414840",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\tsconfig.json": {
+    "mtime": 1781067035.5775933,
+    "ast_hash": "a3d39fa780ebff65444de257f291ce6c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\tsconfig.node.json": {
+    "mtime": 1781068340.3376758,
+    "ast_hash": "dfe0f259d2f0d511f1cc13a1c67d174d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\vite.config.ts": {
+    "mtime": 1781067034.9342718,
+    "ast_hash": "ee80d09370b6bfb1ad86efd9a737e411",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\src\\api.ts": {
+    "mtime": 1781069990.8937619,
+    "ast_hash": "8f67fe85465de75b1e86208c3ab47f15",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\src\\App.tsx": {
+    "mtime": 1781067037.6090395,
+    "ast_hash": "c7c5c4cbc68b96c37a2a4d0d1ca314cd",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\src\\main.tsx": {
+    "mtime": 1781067037.7834716,
+    "ast_hash": "43a9be975bb92bdfe2d5247386679ebd",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\src\\types.ts": {
+    "mtime": 1781067036.3536403,
+    "ast_hash": "b6f9003df8106ad8593bd821c829c8c7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\src\\vite-env.d.ts": {
+    "mtime": 1781067113.1693919,
+    "ast_hash": "0352474ba2918efe13895edbc3780d94",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\src\\components\\Chat.tsx": {
+    "mtime": 1781067037.437088,
+    "ast_hash": "2482e4d6f75c657ac2bfb5f7d3f7aada",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\src\\components\\IndexStatus.tsx": {
+    "mtime": 1781067037.2591498,
+    "ast_hash": "db55a0412ac8a61e91d0c81d394ab888",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\src\\components\\Progress.tsx": {
+    "mtime": 1781067036.8682823,
+    "ast_hash": "6018a17edf23c9bf115cf69d97149fe8",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\src\\components\\RepositoryForm.tsx": {
+    "mtime": 1781067037.0431204,
+    "ast_hash": "88a4756df650a78f0463ea25b027cfb7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\AWS_DEPLOYMENT.md": {
+    "mtime": 1781084555.9986403,
+    "ast_hash": "c3bc514028127023b6db071aefd7b33e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\docker-compose.yml": {
+    "mtime": 1781084655.8034863,
+    "ast_hash": "a5ede8975c8b91b4dd2863f52e044b5f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\README.md": {
+    "mtime": 1781084576.049639,
+    "ast_hash": "81494017b4215e6cb49b2681c35991f4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\render.yaml": {
+    "mtime": 1781070091.678551,
+    "ast_hash": "432bbf883c2337503aa48926a1060afb",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\README.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "95827215f2253370879898afcb879150",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-access.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "f9278a328365d0d7d5d49799457d0362",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-adduser.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "72d5e762aebd0c2a5a230cff08d287c6",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-approve-scripts.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "62261e9fb484436ad99cf4cc222de153",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-audit.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "0a4a4105bd151df23e944d008308d1a4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-bugs.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "f79b49f2e18055d295870e80a0274b03",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-cache.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "c0d66a4161acf262a5e1506905b88804",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-ci.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "3bd77af50e83d5507371bb4277fcce84",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-completion.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "a6e4a729695a0668d67dd8ccd64252ca",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-config.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "74903d885525ed95323d7979f0fc8f28",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-dedupe.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "f569fc31f27749881ff99d0672779373",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-deny-scripts.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "e44ea4f455e4f56270f0726f1d483d1b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-deprecate.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "25f865b838e1dc3b298e7c70865dd6cd",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-diff.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "409e3e12b3162ba390ffb6878ca86aa7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-dist-tag.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "b6246cb3e373327766c6d78ca21a3e04",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-docs.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "28cd43804019f7e8582f79e9118c470a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-doctor.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "5a9aceb7890a78df23324715f8674493",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-edit.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "fab64f74293c15ea744ad38b88883222",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-exec.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "820d850b061325bb66ddb4b188a4771d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-explain.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "43b7aaa751c889c73162e9c2fcfe6b59",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-explore.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "7d039d8ea5ffd015e63e9c8b78307d2a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-find-dupes.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "c8aca9e4ad9629adfd27dcc4afe63339",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-fund.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "4d0d473349dbace71d8ea0baf9bed460",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-get.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "79f6940eb4bd5b4ea6dc7e6ec12ec5a6",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-help-search.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "5114502cc99b600e7c13e52148d25a15",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-help.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "a7f982b827b0dfdc56ce26c8e2dd9817",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-init.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "d16634148f77ccfd841ebf11c831c8c6",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-install-ci-test.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "db9998b01b68028930c12f21567190ba",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-install-test.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "82b9287b61d0401d8d404d6bbc919a74",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-install.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "55f1962ab3dc9e35ac4f9c7e48c2a931",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-link.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "26cb3d06a3a17b734984626ac082f705",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-ll.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "81f528434ac2a0ef8425cbe0b6e6a563",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-login.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "410d3a6f24590ff3913508fbf70995dc",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-logout.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "3e8b50ea8641a651f086b62c4a54811c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-ls.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "0c17c871d1175d4240ab6d63cce7a3fe",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-org.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "f9a9d18f03fa75863336e0c3f87ddd9f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-outdated.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "7bc1a67b21267483a668b56e25b44ef8",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-owner.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "d786f22b912bc140bfcfc638434ac7fa",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-pack.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "3df5e9f640af1d517fa6361810f9018d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-ping.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "bd94992256266cb5c7ab07b8d4da6216",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-pkg.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "a1d9ade4fde649465dd625213d3da743",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-prefix.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "962f7b7b02f7b49f20bacfcc38c854ce",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-profile.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "7e45d898a4ce3b7f5ea1f9ebcccb1936",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-prune.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "17ae88a17c773df5cebd0a8a0adf6b6a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-publish.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "de031d2c02d32d646d49a1b15f7d8de8",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-query.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "a2edd753a860113db132b29bdd502502",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-rebuild.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "3e8532812392a71d8720921c90e4f92a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-repo.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "63ab47bab6582482131affeeb0f316dd",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-restart.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "1e20b317d6e42638328e955eaa29c97a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-root.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "cd3b1561763d7976fea4ad5cc99023b7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-run.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "0509fe69616a5465d3a169c1ce41b512",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-sbom.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "6bc282799f6266202ebf5a71a9e9e386",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-search.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "bca8bcf6dacd2958351f93f59f31d901",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-set.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "0fe32adb182757f76f93134118c0e5bf",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-shrinkwrap.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "0e032cc1e73e74e1fbea5e3046271f38",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-stage.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "162da57789ae6d500cce90990c02bb21",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-star.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "d219d0f149f3b6141dfb48b66151dc77",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-stars.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "70ce1ab0da461c6855b777cdfa35c415",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-start.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "4e3bd752aa38eb91e8bda46cbc450100",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-stop.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "2896deab698bb332461c25a77c978a79",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-team.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "c59dc2a06e2056cbc650f7a3b0054ea4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-test.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "c2c459911fe39d397e78ace0fd971c0a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-trust.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "14e642bd748c0f1afd8ef8cf650ca5ee",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-undeprecate.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "e19cb789e432aa8b3edb07adec1108e6",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-uninstall.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "7e995c21e17b438c86774f4a53500197",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-unpublish.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "7c6d76b783d233d2751822013c6325b1",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-unstar.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "1e09533e96c7d14fbb8114352aa6aba7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-update.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "6c0a709692da400953f730ce35880109",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-version.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "e799a2f9b3e0c4815199bf2f533f7974",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-view.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "c053b22baac5eeb3a82c9cf7d8970acd",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm-whoami.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "94a566bbcbe156dd4d0f84b2747fd0c6",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npm.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "7a6536b2b747cd1033271c78968cf51d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\commands\\npx.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "67dc17a916ea08f8cc59f3da9ad7aef6",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\configuring-npm\\folders.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "9fd3b168819c6f55c267ce3f6c19e0f5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\configuring-npm\\install.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "4022e1dd6a5bc2abe128f12392e073b8",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\configuring-npm\\npm-shrinkwrap-json.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "87706500c42a99eef6bb89b962c1a6f2",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\configuring-npm\\npmrc.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "66fa9438aaad69e4354d371734dcf936",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\configuring-npm\\package-json.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "8b505f860e9c73a450acbbf77975e258",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\configuring-npm\\package-lock-json.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "4bb57bc2dd0837b9f4b5afc975fe9881",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\config.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "086f5174bdac2459488937c7f0db3655",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\dependency-selectors.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "caf64418b68871503f19144063e75e68",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\developers.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "3a4c4f689b13d86b6b8a05cde1f602b5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\logging.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "a236a179aa603f2f8612c4341eec80e5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\orgs.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "c293af372e8fa647eb2e409c46284a44",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\package-spec.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "46bd561d6f8e603d0536796fcb427f15",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\registry.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "29672cd3cfb9a3e5a3bdd54673aaf85b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\removal.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "4cd6e79a39f6780aef40e4830d6cc0e8",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\scope.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "30c1a5e284ab7c215f49f5ed69630051",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\scripts.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "186eac24995f0980b7a288a5956c611f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\content\\using-npm\\workspaces.md": {
+    "mtime": 499162500.0,
+    "ast_hash": "6f79609fd12351a616e070725b2ef338",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-access.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "4004d4ed623b62d435265a70ade9803e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-adduser.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "aa194e6bdf7a0b9f81a8e2465ffbb071",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-approve-scripts.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "b597aa7c8e52be24dd4d7759db3c0f20",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-audit.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "fb22769da72253f3222a2a4f6f5159e2",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-bugs.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "db9ef5bb89fcec2e8cf46b0fdda718a4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-cache.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "618075d651d3bf342efebb7d160321eb",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-ci.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "14026d0c3c8d06e34a1c8821a9cd36ac",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-completion.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "8082f16886ac75965a92f0ad9cff3273",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-config.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "8c162870d21254827e65de03b24b0fc4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-dedupe.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "c2e633e45e0ac5373cd2c24aa892f526",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-deny-scripts.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "e20de7747940bcf2abd0e0931cef1094",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-deprecate.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "e9911c9cda60e1128443096475f661fa",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-diff.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "13962ac11704c04b12c78878a97b6356",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-dist-tag.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "0fa6ad5a05161279a069595209319268",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-docs.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "cdb3630b6fc828d4b92cf84247dbc2e7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-doctor.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "c7ceeda8a7a7c74b0fe119dd5edae2c3",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-edit.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "ab846d5062912a77ed35b3121f0cea27",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-exec.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "e625747d267ade6816606f42ffd8064d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-explain.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "ede55d3912855e84e0037bdd17c187ef",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-explore.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "f5e1dca00bfb594be0cd43e5feb33e56",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-find-dupes.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "3cf3ec5eb37612f3adb03e0229a175ec",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-fund.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "d85e4b73b2c3548ee7c6ebece78b1c48",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-get.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "40c6c5e68fccfbfd62b2c59e446c0540",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-help-search.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "35c6203cce2d1917e5bc19bb2dec444a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-help.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "22c0e67ff5c7d702448f5702a857d31a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-init.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "7936a9cf86f3ac1e9ac68aa2196aaa73",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-install-ci-test.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "2c0fc0a17764652d1a1a25bf66232b15",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-install-test.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "e86e6941aace73237052a8eed28b0736",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-install.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "e062516b8f49c33b5fccfd8c7b40f4e5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-link.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "bac2adfc5c30c86ea735364c4a271e68",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-ll.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "bea3292b1a3b0690cb1b3b3e80401aef",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-login.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "2072d815d2b2fea1654b64e54b315814",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-logout.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "0adc74e4775fa8394025034892066d8c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-ls.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "e599997d0913cf91781fe5ee97d87ef4",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-org.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "934c7fa5ad4199c2ef40255d54499703",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-outdated.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "93e17c574bdf369e1fe5fd28a9bf3630",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-owner.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "7a15ad93fdee8b3b8e051d60156e4c80",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-pack.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "ffd5f0930869cbec4186ed1fe627c346",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-ping.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "1e57543b0abea746327cd75f8d1025a3",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-pkg.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "626a35f3c6991ab399c8802c5254e2c3",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-prefix.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "5271cd5cb1a8b96356f136bbd4d2e41d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-profile.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "5dbe2fe9370d92d0ab3a9dad64eed2d7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-prune.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "f36a1cf38fd6c75713a88aba09e2d680",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-publish.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "78c2f68693510c95bc3ed68a24757cc2",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-query.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "e99ec1c7ed9b4197b4145bb06b68486f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-rebuild.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "373bba18ce10a6f7a8110bf11e3dd045",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-repo.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "c2f5dc2d289ea7449ac4c3bf61088319",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-restart.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "560d45cc9f4192bd16ed931aae4adec5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-root.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "9499411e2714ef38dcc2a91630e03d17",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-run.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "06cf3be1c80e7ff8f0f629553916f29e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-sbom.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "021796bf43c3182bfcaa113840b8b7f9",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-search.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "daa17bda252683b9ee0b2ee7d0957135",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-set.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "3192770d6e58758fedc0505cfdcdbacf",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-shrinkwrap.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "388e90eb3ce683ff301e3e92ff550cc9",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-stage.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "f6067159bdcef807dab9719ff11b8ef9",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-star.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "7b4ca1925d9955d6fc7d5c86faeddbf7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-stars.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "2f19858f150175c51fea0af2067f00a1",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-start.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "7d47fb0402fe53e9ab9f2ebcf19ca165",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-stop.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "f1855bcba39aa9c728a16145f4e7a56a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-team.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "e32463ca3efb6f4906b23ab7a0b099d0",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-test.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "6bc26a34e5750ac015f8444816b2b2d9",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-trust.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "9df9fde87998112ad88a2cfd6183a902",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-undeprecate.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "a08cdb579fb182c866f030aa9d74ce82",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-uninstall.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "266bfdcf823d537ee95a9286bca37bdf",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-unpublish.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "ac1704106e334e9b156fea7ae7214dea",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-unstar.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "fc2b3c7b5d955b0196aefba64fdd036b",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-update.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "bb102ac16acb18be76d2ba863371d3bc",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-version.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "745649c18648e7212c72eb0a3f52c7c0",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-view.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "7d1ddb7c7fc021e53a31156ac2bc08c1",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm-whoami.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "b741aec2fc961bba15a2c93e486efc4a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npm.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "cbd4aeefe8adab42f534196dcfaca282",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\commands\\npx.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "5e485b768ca7f3573d303b7c4740e9b6",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\configuring-npm\\folders.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "c665efdeaafb3b69ba31f4e7ad3b9c6d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\configuring-npm\\install.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "a79f771d1ddfa3861b3ed5bd3493e9a6",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\configuring-npm\\npm-global.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "c665efdeaafb3b69ba31f4e7ad3b9c6d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\configuring-npm\\npm-json.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "878979d590072b007cf116abdcf7ed5d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\configuring-npm\\npm-shrinkwrap-json.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "a3e18fe0055aa65d8e1869bb8f192f20",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\configuring-npm\\npmrc.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "a7a62b3305bb22c13baddc0bc625c254",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\configuring-npm\\package-json.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "878979d590072b007cf116abdcf7ed5d",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\configuring-npm\\package-lock-json.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "277345b4ccb3232d260ab4c0ebc8c611",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\config.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "e29a1e8f3f6bd56e6ccc836c520a9898",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\dependency-selectors.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "70e590afaa9f2a7e1d30472f35f7c3bb",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\developers.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "4fe19680a1e268fc1ea5583a939da42f",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\logging.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "e555aadbfae9d02c08a5816995d7ad3c",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\orgs.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "51d648bce1a1502089c91e481d4e6de7",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\package-spec.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "74f596958a2ac637c23464d0efb9d6cb",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\registry.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "95d4b482228f6f39b9a10d4f36e41ffa",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\removal.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "f2b32a1bc3956630c6363e8ec5b08ae9",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\scope.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "4a9c42e37b9b1be93e069a40311c723e",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\scripts.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "eb4b50f0d26a2a693ec0c832d8b6ac3a",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.corepack\\v1\\npm\\11.16.0\\docs\\output\\using-npm\\workspaces.html": {
+    "mtime": 499162500.0,
+    "ast_hash": "79a66c20d6ad65ec38eb30cb151e99a5",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\.elasticbeanstalk\\config.yml": {
+    "mtime": 1781079938.373711,
+    "ast_hash": "eefa31759898700e612cd4383b675e12",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\requirements.txt": {
+    "mtime": 1781084633.9875484,
+    "ast_hash": "3cb3137bef1ea2f1ddf9e28fca31b867",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\repositories\\github-codemind-652990a1\\README.md": {
+    "mtime": 1781068084.7009115,
+    "ast_hash": "bf948611e604cb22f40ced643011fadb",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\repositories\\github-codemind-c766d475\\README.md": {
+    "mtime": 1781069845.4668388,
+    "ast_hash": "bf948611e604cb22f40ced643011fadb",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\backend\\repositories\\github-codemind-d405d57c\\README.md": {
+    "mtime": 1781075561.9076054,
+    "ast_hash": "bf948611e604cb22f40ced643011fadb",
+    "semantic_hash": ""
+  },
+  "C:\\Ayush\\Desktop\\codex\\codemind-ai\\frontend\\index.html": {
+    "mtime": 1781067034.7415638,
+    "ast_hash": "8eac03cf784b66daf79e160983678ace",
+    "semantic_hash": ""
+  }
+}
