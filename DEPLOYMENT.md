@@ -33,10 +33,10 @@ docker build -t codemind-app .
 Launch the container in detached mode mapping port `8000`:
 
 ```powershell
-docker run -d -p 8000:8000 --name codemind-container codemind-app
+docker run -d -p 8000:8000 -e GROQ_API_KEY="gsk_your_groq_key_here" --name codemind-container codemind-app
 ```
 
-> **To verify locally**: Open `http://localhost:8000/health` in your browser.
+> **Note**: Providing `GROQ_API_KEY` enables LLM-synthesized AI answers! Without an API key, CodeMind operates in free fallback mode, returning the exact matching code citations.
 
 ---
 
