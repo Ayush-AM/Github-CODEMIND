@@ -1,3 +1,13 @@
+---
+title: CodeMind AI
+emoji: 🧠
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # CodeMind AI
 
 CodeMind AI is a local-first GitHub repository intelligence MVP. It clones a public repository, identifies semantic code sections, embeds them with `sentence-transformers/all-MiniLM-L6-v2`, persists them in FAISS, and answers questions with source citations.
