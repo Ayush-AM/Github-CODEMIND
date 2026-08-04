@@ -2,7 +2,7 @@ services:
   - type: web
     name: codemind-ai
     runtime: docker
-    plan: standard
+    plan: free
     region: singapore
     dockerfilePath: ./Dockerfile
     dockerContext: .
@@ -16,10 +16,6 @@ services:
       - key: GROQ_MODEL
         value: llama-3.3-70b-versatile
       - key: STORAGE_ROOT
-        value: /var/data
+        value: /tmp/data
       - key: FRONTEND_DIST_DIR
         value: /app/frontend/dist
-    disk:
-      name: codemind-data
-      mountPath: /var/data
-      sizeGB: 10
