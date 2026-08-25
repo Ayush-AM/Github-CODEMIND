@@ -15,8 +15,35 @@ from .repository_state import StateStore
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
+from contextlib import asynccontextmanager
+
+import asyncio
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Background task for automatic session cleanup
+    async def cleanup_task():
+        while True:
+            try:
+                await asyncio.sleep(60) # Check every minute
+                state_store = get_state_store(settings)
+                # Clear sessions inactive for more than 15 minutes (900 seconds)
+                state_store.clear_expired(settings.repositories_dir, settings.indexes_dir, timeout_seconds=900)
+            except asyncio.CancelledError:
+                break
+            except Exception as e:
+                logging.error(f"Cleanup task error: {e}")
+
+    task = asyncio.create_task(cleanup_task())
+    yield
+    # Stop the background task on shutdown
+    task.cancel()
+    # Automatically delete cloned repositories and indexes on server shutdown
+    state_store = get_state_store(settings)
+    state_store.clear_all(settings.repositories_dir, settings.indexes_dir)
+
 settings = get_settings()
-app = FastAPI(title=settings.app_name, version="0.1.0")
+app = FastAPI(title=settings.app_name, version="0.1.0", lifespan=lifespan)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.allowed_origins,
@@ -30,6 +57,16 @@ app.add_middleware(
 def health(state: StateStore = Depends(get_state_store)) -> dict:
     current = state.load()
     return {"status": "healthy", "active_repo_id": current.active_repo_id}
+
+
+@app.delete("/clear")
+def clear_session(
+    state: StateStore = Depends(get_state_store),
+    config: Settings = Depends(get_settings),
+) -> dict:
+    state.clear_all(config.repositories_dir, config.indexes_dir)
+    return {"status": "success", "message": "All cloned repositories and indexes have been cleared."}
+
 
 
 @app.post("/clone")
@@ -57,6 +94,12 @@ async def index_repository(
         repository = Path(state.load().repositories[repo_id]["path"])
         files, chunks = await run_in_threadpool(rag.index, repo_id, repository)
         state.mark_indexed(repo_id, chunks)
+        
+        # Delete the raw cloned repository immediately after it has been fully indexed
+        # to save disk space and automatically clear the original code.
+        import shutil
+        shutil.rmtree(repository, ignore_errors=True)
+        
         return {"status": "success", "repo_id": repo_id, "files": files, "chunks": chunks}
     except (KeyError, ValueError, FileNotFoundError) as exc:
         raise HTTPException(status_code=400, detail=str(exc)) from exc

@@ -1,71 +1,100 @@
-# CodeMind AI - Deployment Guide (Local + Cloudflare Tunnel)
+# CodeMind AI - Production Deployment Guide (AWS Elastic Beanstalk)
 
-This guide documents how **CodeMind AI** was containerized and deployed using **Docker** and **Cloudflare Tunnel (`cloudflared`)** for a 100% free, public HTTPS deployment with zero cloud hosting costs or credit card requirements.
-
----
-
-## 🚀 Summary of What Was Done
-
-1. **Dockerized Full-Stack Application**:
-   - Built a single container housing the FastAPI backend (PyTorch, FAISS vector store, sentence-transformers) and the compiled React frontend.
-   - Configured default port fallback to `8000` and writable storage in `/tmp/data`.
-
-2. **Cloudflare Tunnel Setup**:
-   - Downloaded the standalone `cloudflared.exe` binary.
-   - Launched an accountless quick tunnel linking `http://localhost:8000` to a secure, public Cloudflare HTTPS endpoint (`https://*.trycloudflare.com`).
-
-3. **Active Live URL**:
-   - **Public URL**: `https://concentrate-laser-salmon-efficiency.trycloudflare.com`
-   - **Health Check**: `https://concentrate-laser-salmon-efficiency.trycloudflare.com/health`
+This guide documents how **CodeMind AI** is containerized and deployed to **AWS Elastic Beanstalk** as a production full-stack application on Docker.
 
 ---
 
-## 🛠️ Step-by-Step Commands to Run Locally & Expose Publicly
+## 🚀 Live Production Environment
 
-### Step 1: Build the Docker Image
-Run this command from the root of the project directory (`c:\Ayush\Desktop\codemind-deploy`):
+- **Live Application URL**: [http://codemind-prod.ap-south-1.elasticbeanstalk.com/](http://codemind-prod.ap-south-1.elasticbeanstalk.com/)
+- **Health Check Endpoint**: [http://codemind-prod.ap-south-1.elasticbeanstalk.com/health](http://codemind-prod.ap-south-1.elasticbeanstalk.com/health)
+- **AWS Region**: `ap-south-1` (Mumbai)
+- **Platform**: `64bit Amazon Linux 2023 v4.13.7 running Docker`
+- **Instance Profile**: `aws-elasticbeanstalk-ec2-role`
+- **Instance Type**: `t3.small` (Free-tier eligible, 2 vCPUs, 2 GB RAM)
 
-```powershell
-docker build -t codemind-app .
+---
+
+## 🛠️ Infrastructure & Architecture Overview
+
+1. **Full-Stack Container Architecture**:
+   - Multi-stage Docker build compiling the React frontend (`frontend/dist`) and serving it via FastAPI + Uvicorn backend on port `8000`.
+   - Host port `80` routed to container port `8000` via Elastic Beanstalk Nginx proxy configuration and `Dockerrun.aws.json`.
+
+2. **Isolated Cloud Environment**:
+   - Deployed under dedicated Elastic Beanstalk application (`codemind-ai`) and environment (`codemind-prod`).
+   - Completely isolated from other standalone EC2 instances in the AWS account.
+
+3. **Environment Configuration**:
+   - `GROQ_API_KEY`: Configured in Elastic Beanstalk application environment settings.
+   - `LLM_PROVIDER`: `groq`
+   - `GROQ_MODEL`: `llama-3.3-70b-versatile`
+   - `TOP_K`: `5`
+   - `PORT`: `8000`
+   - `CORS_ORIGINS`: `*`
+
+---
+
+## 📦 Deploying to Elastic Beanstalk
+
+### Step 1: Verify `Dockerrun.aws.json`
+Ensure `Dockerrun.aws.json` is present in the project root:
+
+```json
+{
+  "AWSEBDockerrunVersion": "1",
+  "Ports": [
+    {
+      "ContainerPort": 8000,
+      "HostPort": 80
+    }
+  ]
+}
 ```
 
-### Step 2: Run the Docker Container
-Launch the container in detached mode mapping port `8000`:
+### Step 2: Package Application Bundle
+Create a zip archive containing the application code, excluding `.git`, `node_modules`, and temporary caches:
 
 ```powershell
-docker run -d -p 8000:8000 -e GROQ_API_KEY="gsk_your_groq_key_here" --name codemind-container codemind-app
+python -c "import zipfile, os; z = zipfile.ZipFile('bundle.zip', 'w', zipfile.ZIP_DEFLATED); [z.write(os.path.join(r, f), os.path.relpath(os.path.join(r, f), '.')) for r, d, files in os.walk('.') for f in files if not any(x in r for x in ['.git', 'node_modules', '__pycache__', '.venv']) and not f.endswith('.zip')]; z.close()"
 ```
 
-> **Note**: Providing `GROQ_API_KEY` enables LLM-synthesized AI answers! Without an API key, CodeMind operates in free fallback mode, returning the exact matching code citations.
-
----
-
-### Step 3: Download Cloudflare Tunnel Executable (One-time)
-If `cloudflared.exe` is not present in your directory, download it with:
-
+### Step 3: Upload & Deploy via AWS CLI
 ```powershell
-curl.exe -L -o cloudflared.exe https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-windows-amd64.exe
+aws s3 cp bundle.zip s3://elasticbeanstalk-ap-south-1-206690614418/codemind-v1.zip
+aws elasticbeanstalk create-application-version --application-name codemind-ai --version-label v1 --source-bundle S3Bucket="elasticbeanstalk-ap-south-1-206690614418",S3Key="codemind-v1.zip" --region ap-south-1
+aws elasticbeanstalk update-environment --environment-name codemind-prod --version-label v1 --region ap-south-1
 ```
 
 ---
 
-### Step 4: Expose Live to Public HTTPS
-Run `cloudflared` pointing to your local container port:
+## 🧹 Session Cleanup & Automated Memory Management
 
-```powershell
-.\cloudflared.exe tunnel --url http://localhost:8000
-```
+To ensure that cloned repositories and FAISS vector indexes are not persisted indefinitely and disk space is conserved, CodeMind enforces the following automated cleanup mechanisms:
 
-Cloudflare will generate a public URL in the terminal formatted like:
-`https://<random-words>.trycloudflare.com`
+1. **Immediate Raw Code Deletion:**
+   The moment a repository is successfully cloned and its vector index (FAISS) is generated, raw source files are **immediately deleted** from disk. Only lightweight generated embeddings required for question answering are retained.
+
+2. **Inactivity Timeout (15 Minutes):**
+   A background task runs continuously to monitor session activity. Repositories inactive for **15 minutes** trigger automatic purge of vector indexes and state.
+
+3. **Automatic Cleanup on Container Shutdown:**
+   When the server shuts down, a lifespan handler clears all remaining indexes and session state.
+
+4. **Manual Wipe Endpoint:**
+   To manually clear all current session data:
+   ```bash
+   curl -X DELETE http://codemind-prod.ap-south-1.elasticbeanstalk.com/clear
+   ```
 
 ---
 
-## 📋 Helpful Maintenance Commands
+## 📋 Maintenance Commands
 
 | Action | Command |
 | :--- | :--- |
-| **View Container Logs** | `docker logs --tail 50 codemind-container` |
-| **Stop Container** | `docker stop codemind-container` |
-| **Remove Container** | `docker rm -f codemind-container` |
-| **Rebuild Container** | `docker build -t codemind-app .` |
+| **Check Live Health** | `curl -i http://codemind-prod.ap-south-1.elasticbeanstalk.com/health` |
+| **View Environment Status** | `aws elasticbeanstalk describe-environments --environment-name codemind-prod --region ap-south-1` |
+| **Request Environment Logs** | `aws elasticbeanstalk request-environment-info --environment-name codemind-prod --info-type tail --region ap-south-1` |
+| **Retrieve Log URL** | `aws elasticbeanstalk retrieve-environment-info --environment-name codemind-prod --info-type tail --region ap-south-1` |
+| **Run Container Locally** | `docker run -d -p 8000:8000 -e GROQ_API_KEY="gsk_..." codemind-app` |

@@ -70,16 +70,12 @@ pytest backend/tests
 
 The MVP deliberately leaves hybrid search, reranking, dependency graphs, visualizations, private repositories, and multi-repository retrieval as extension points rather than partially implementing them.
 
-## Deploy Live on Render
+## Production Deployment (AWS Elastic Beanstalk)
 
-The repository includes a root `Dockerfile` and `render.yaml` for a single-service deployment. FastAPI serves the built React app on the same domain, and a persistent disk stores cloned repositories, FAISS indexes, application state, and the embedding model.
+CodeMind AI is deployed live on **AWS Elastic Beanstalk** (`ap-south-1` region) as a single container application using Docker:
 
-1. Push this `codemind-ai` folder to a GitHub repository. Never commit `.env`.
-2. In Render, choose **New > Blueprint** and connect that repository.
-3. Render reads `render.yaml`. Enter `GROQ_API_KEY` when prompted.
-4. Create the Blueprint and wait for the first deployment.
-5. Open the generated `onrender.com` URL.
+- **Live Web App**: [http://codemind-prod.ap-south-1.elasticbeanstalk.com/](http://codemind-prod.ap-south-1.elasticbeanstalk.com/)
+- **Health Check**: [http://codemind-prod.ap-south-1.elasticbeanstalk.com/health](http://codemind-prod.ap-south-1.elasticbeanstalk.com/health)
 
-The first repository indexing request downloads the embedding model and can take several minutes. The Blueprint uses Render's Standard web service because its 2 GB RAM is a safer baseline for PyTorch and MiniLM indexing. It also attaches a 10 GB persistent disk. At Render's June 2026 pricing, expect approximately `$27.50/month` before bandwidth: `$25/month` compute plus `$2.50/month` disk.
+See [DEPLOYMENT.md](file:///c:/Ayush/Desktop/codemind-deploy/DEPLOYMENT.md) for full step-by-step instructions, infrastructure architecture, environment variable configuration, and maintenance commands.
 
-Before sharing the URL publicly, add authentication and rate limiting. The MVP accepts arbitrary public GitHub URLs, so an unrestricted public deployment can consume disk space and Groq usage.
