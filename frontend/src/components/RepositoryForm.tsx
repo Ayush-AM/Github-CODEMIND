@@ -2,7 +2,7 @@ import { ArrowRight, Github, SearchCode } from "lucide-react";
 import { FormEvent, useState } from "react";
 
 export function RepositoryForm({ loading, onSubmit }: { loading: boolean; onSubmit: (url: string) => void }) {
-  const [url, setUrl] = useState("https://github.com/Ayush-AM/Github-CODEMIND.git");
+  const [url, setUrl] = useState("");
 
   function submit(event: FormEvent) {
     event.preventDefault();
