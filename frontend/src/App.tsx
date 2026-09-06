@@ -50,7 +50,13 @@ export default function App() {
         confidence: response.confidence,
       }]);
     } catch (cause) {
-      setError(cause instanceof Error ? cause.message : "Unable to answer question.");
+      const errorMessage = cause instanceof Error ? cause.message : "Unable to answer question.";
+      setError(errorMessage);
+      setMessages((current) => [...current, {
+        id: crypto.randomUUID(),
+        role: "assistant",
+        content: `⚠️ Error: ${errorMessage}`,
+      }]);
     } finally {
       setLoading(false);
     }

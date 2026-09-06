@@ -117,6 +117,9 @@ async def ask_repository(
         return await rag.ask(repo_id, request.question, request.top_k or config.top_k)
     except (KeyError, FileNotFoundError) as exc:
         raise HTTPException(status_code=400, detail=str(exc)) from exc
+    except Exception as exc:
+        logging.error(f"Error answering question: {exc}", exc_info=True)
+        raise HTTPException(status_code=500, detail=f"Failed to generate answer: {exc}") from exc
 
 
 if settings.frontend_dir.exists():
