@@ -7,6 +7,24 @@ import { Progress } from "./components/Progress";
 import { RepositoryForm } from "./components/RepositoryForm";
 import type { Message, Stage } from "./types";
 
+/** crypto.randomUUID() requires HTTPS (Secure Context). This fallback works on HTTP too. */
+function randomId(): string {
+  if (typeof crypto !== "undefined" && typeof crypto.randomUUID === "function") {
+    return crypto.randomUUID();
+  }
+  // Fallback: use crypto.getRandomValues if available (works on HTTP), else Math.random
+  if (typeof crypto !== "undefined" && crypto.getRandomValues) {
+    const bytes = new Uint8Array(16);
+    crypto.getRandomValues(bytes);
+    bytes[6] = (bytes[6] & 0x0f) | 0x40;
+    bytes[8] = (bytes[8] & 0x3f) | 0x80;
+    return [...bytes].map((b, i) =>
+      [4, 6, 8, 10].includes(i) ? "-" + b.toString(16).padStart(2, "0") : b.toString(16).padStart(2, "0")
+    ).join("");
+  }
+  return `${Date.now().toString(36)}-${Math.random().toString(36).slice(2)}`;
+}
+
 export default function App() {
   const [stage, setStage] = useState<Stage>("repository");
   const [repoId, setRepoId] = useState("");
@@ -36,14 +54,14 @@ export default function App() {
   }
 
   async function ask(question: string) {
-    const userMessage: Message = { id: crypto.randomUUID(), role: "user", content: question };
+    const userMessage: Message = { id: randomId(), role: "user", content: question };
     setMessages((current) => [...current, userMessage]);
     setLoading(true);
     setError("");
     try {
       const response = await api.ask(repoId, question);
       setMessages((current) => [...current, {
-        id: crypto.randomUUID(),
+        id: randomId(),
         role: "assistant",
         content: response.answer,
         sources: response.sources,
@@ -53,7 +71,7 @@ export default function App() {
       const errorMessage = cause instanceof Error ? cause.message : "Unable to answer question.";
       setError(errorMessage);
       setMessages((current) => [...current, {
-        id: crypto.randomUUID(),
+        id: randomId(),
         role: "assistant",
         content: `⚠️ Error: ${errorMessage}`,
       }]);
