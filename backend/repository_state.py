@@ -20,9 +20,14 @@ class StateStore:
 
     def active_repo_id(self, requested: str | None = None) -> str:
         state = self.load()
-        repo_id = requested or state.active_repo_id
-        if not repo_id or repo_id not in state.repositories:
-            raise KeyError("No repository is active. Clone a repository first.")
+        if requested and requested in state.repositories:
+            repo_id = requested
+        elif state.active_repo_id and state.active_repo_id in state.repositories:
+            repo_id = state.active_repo_id
+        elif state.repositories:
+            repo_id = next(iter(state.repositories.keys()))
+        else:
+            raise KeyError("No active repository found on server. Please enter a repository URL on the home screen to index it.")
         
         import time
         state.repositories[repo_id]["last_accessed"] = time.time()
