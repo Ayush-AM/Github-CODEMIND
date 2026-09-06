@@ -33,3 +33,5 @@ node_modules/
 # Misc
 *.log
 .DS_Store
+docker-compose.yml
+test_live.py
