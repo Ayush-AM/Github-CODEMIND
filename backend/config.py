@@ -12,7 +12,7 @@ class Settings(BaseSettings):
     openai_api_key: str | None = None
     openai_model: str = "gpt-4o-mini"
     groq_api_key: str | None = None
-    groq_model: str = "openai/gpt-oss-120b"
+    groq_model: str = "groq/compound-mini"
     xai_api_key: str | None = None
     xai_model: str = "grok-3-mini"
     top_k: int = 5

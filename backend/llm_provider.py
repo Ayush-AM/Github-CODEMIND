@@ -87,7 +87,7 @@ def create_llm_provider(settings) -> LLMProvider:
             settings.groq_api_key,
             settings.groq_model,
             "https://api.groq.com/openai/v1",
-            fallback_models=["openai/gpt-oss-120b", "openai/gpt-oss-20b", "groq/compound-mini", "groq/compound"],
+            fallback_models=["groq/compound-mini", "openai/gpt-oss-20b", "openai/gpt-oss-120b", "groq/compound"],
         )
     if provider in {"auto", "openai"} and settings.openai_api_key:
         return OpenAICompatibleProvider(
