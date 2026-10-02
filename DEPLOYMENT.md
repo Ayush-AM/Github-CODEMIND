@@ -6,8 +6,8 @@ This guide documents how **CodeMind AI** is containerized and deployed to **AWS 
 
 ## 🚀 Live Production Environment
 
-- **Live Application URL**: [https://witnesses-lessons-weekly-breeding.trycloudflare.com](https://witnesses-lessons-weekly-breeding.trycloudflare.com)
-- **Health Check Endpoint**: [https://witnesses-lessons-weekly-breeding.trycloudflare.com/health](https://witnesses-lessons-weekly-breeding.trycloudflare.com/health)
+- **Live Application URL**: [http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com](http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com)
+- **Health Check Endpoint**: [http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com/health](http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com/health)
 - **AWS Region**: `ap-south-1` (Mumbai)
 - **Platform**: `64bit Amazon Linux 2023 v4.13.7 running Docker`
 - **Instance Profile**: `aws-elasticbeanstalk-ec2-role`

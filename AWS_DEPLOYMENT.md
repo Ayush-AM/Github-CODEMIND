@@ -107,8 +107,8 @@ These are the exact commands used to spin up, configure, and update the environm
 
 ## 🔗 Live Application Endpoint
 
-- **Frontend / Landing Page**: [http://codemind-ai-prod.eba-nc4jp4sj.ap-south-1.elasticbeanstalk.com](http://codemind-ai-prod.eba-nc4jp4sj.ap-south-1.elasticbeanstalk.com)
-- **API Health check**: [http://codemind-ai-prod.eba-nc4jp4sj.ap-south-1.elasticbeanstalk.com/health](http://codemind-ai-prod.eba-nc4jp4sj.ap-south-1.elasticbeanstalk.com/health)
+- **Frontend / Landing Page**: [http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com](http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com)
+- **API Health check**: [http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com/health](http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com/health)
 
 ---
 

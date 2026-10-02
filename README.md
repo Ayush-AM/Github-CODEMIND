@@ -74,8 +74,8 @@ The MVP deliberately leaves hybrid search, reranking, dependency graphs, visuali
 
 CodeMind AI is deployed live on **AWS Elastic Beanstalk** (`ap-south-1` region) as a single container application using Docker:
 
-- **Live Web App**: [https://witnesses-lessons-weekly-breeding.trycloudflare.com](https://witnesses-lessons-weekly-breeding.trycloudflare.com)
-- **Health Check**: [https://witnesses-lessons-weekly-breeding.trycloudflare.com/health](https://witnesses-lessons-weekly-breeding.trycloudflare.com/health)
+- **Live Web App**: [http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com](http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com)
+- **Health Check**: [http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com/health](http://codemind-prod.eba-eup4m2pv.ap-south-1.elasticbeanstalk.com/health)
 
 See [DEPLOYMENT.md](file:///c:/Ayush/Desktop/codemind-deploy/DEPLOYMENT.md) for full step-by-step instructions, infrastructure architecture, environment variable configuration, and maintenance commands.
 
