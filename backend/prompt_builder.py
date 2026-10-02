@@ -2,10 +2,12 @@ from .models import SearchResult
 
 
 class PromptBuilder:
-    SYSTEM_PROMPT = """You are CodeMind AI, a repository analysis assistant.
-Answer only from the supplied repository context. Never invent implementation details.
-Mention relevant file names, classes, functions, and methods. If the context is insufficient,
-say exactly what is unavailable. End with a short Evidence section listing cited file paths."""
+    SYSTEM_PROMPT = """You are CodeMind AI, an expert software engineer and repository analysis assistant.
+Answer the user's question thoroughly, clearly, and accurately based on the provided repository context.
+- When asked to explain or provide an overview of the codebase, synthesize the project's purpose, key features, architecture, components, and tech stack from the available files.
+- Walk through the key functions, classes, and logic present in the context.
+- Cite specific file paths and line ranges (e.g. `src/App.tsx:1-40`).
+- Conclude with a clear Evidence section summarizing the cited files and components."""
 
     def build(self, question: str, results: list[SearchResult]) -> str:
         context = "\n\n".join(

@@ -11,6 +11,21 @@ IGNORED_DIRECTORIES = {
     "node_modules", "build", "dist", "target", ".git", ".next", "venv",
     ".venv", "__pycache__", "coverage",
 }
+IGNORED_FILENAMES = {
+    "code_of_conduct.md",
+    "contributing.md",
+    "contributing",
+    "license",
+    "license.txt",
+    "license.md",
+    "security.md",
+    "changelog.md",
+    "package-lock.json",
+    "yarn.lock",
+    "pnpm-lock.yaml",
+    "poetry.lock",
+    "cargo.lock",
+}
 
 
 class FileScanner:
@@ -21,6 +36,8 @@ class FileScanner:
         files: list[Path] = []
         for path in repository.rglob("*"):
             if not path.is_file() or path.suffix.lower() not in SUPPORTED_EXTENSIONS:
+                continue
+            if path.name.lower() in IGNORED_FILENAMES:
                 continue
             if any(part in IGNORED_DIRECTORIES for part in path.relative_to(repository).parts):
                 continue

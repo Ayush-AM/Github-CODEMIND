@@ -15,7 +15,7 @@ class Settings(BaseSettings):
     groq_model: str = "groq/compound-mini"
     xai_api_key: str | None = None
     xai_model: str = "grok-3-mini"
-    top_k: int = 5
+    top_k: int = 10
     max_file_bytes: int = 1_000_000
     storage_root: Path | None = None
     frontend_dist_dir: Path | None = None
